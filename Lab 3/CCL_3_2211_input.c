@@ -1,6 +1,3 @@
-
-// write a basic c program
-// Imtiaz Uddin
 #include<stdio.h>
 int main(){
     printf(" Minhaj_2211 \n"); //// Mihaj
@@ -10,7 +7,7 @@ int main(){
     int i = 10;
 
     if (i > 18) {
-        printf("Eligible  int for vote");
+        printf("Eligible for vote");
     }
     else {
         printf("Not Eligible for vote");
